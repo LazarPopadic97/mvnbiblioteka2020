@@ -1,4 +1,4 @@
-package domen;
+package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka;
 
 /**
  * Autor knjige ili publikacije.

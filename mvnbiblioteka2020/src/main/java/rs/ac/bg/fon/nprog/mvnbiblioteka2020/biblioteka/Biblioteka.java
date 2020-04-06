@@ -1,10 +1,10 @@
-package domen;
+package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-import interfejs.BibliotekaInterfejs;
+import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.interfejs.BibliotekaInterfejs;
 
 /**
  * Klasa predstavlja biblioteku sa knjigama. Knjige se cuvaju u

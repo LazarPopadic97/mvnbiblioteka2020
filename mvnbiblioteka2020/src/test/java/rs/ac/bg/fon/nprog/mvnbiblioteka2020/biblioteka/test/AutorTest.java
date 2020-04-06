@@ -1,4 +1,4 @@
-package test;
+package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.test;
 
 import static org.junit.Assert.*;
 
@@ -8,7 +8,7 @@ import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import domen.Autor;
+import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.Autor;
 
 public class AutorTest {
 	

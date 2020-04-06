@@ -1,4 +1,4 @@
-package test;
+package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.test;
 
 import static org.junit.Assert.*;
 
@@ -8,8 +8,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import domen.Biblioteka;
-import domen.Knjiga;
+import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.Biblioteka;
+import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.Knjiga;
 
 public class BibliotekaTest {
 	

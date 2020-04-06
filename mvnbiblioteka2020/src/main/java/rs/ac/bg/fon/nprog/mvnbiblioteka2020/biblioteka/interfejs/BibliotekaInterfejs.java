@@ -1,9 +1,9 @@
-package interfejs;
+package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.interfejs;
 
 import java.util.List;
 
-import domen.Autor;
-import domen.Knjiga;
+import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.Autor;
+import rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka.Knjiga;
 
 public interface BibliotekaInterfejs {
 
